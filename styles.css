@@ -1,0 +1,451 @@
+.red-title {
+  color: red;
+  font-size: 30px;
+  font-style: italic;
+  font-family: "Times New Roman", Times, serif;
+  font-weight: bold;
+}
+.centrer {
+  text-align: center;
+}
+.input-exemple {
+  width: 400px;
+  height: 30px;
+
+  margin-left: 100px;
+  margin-bottom: 60px;
+}
+.firstName-exemple {
+  margin-bottom: 50px;
+}
+.title-login {
+  color: red;
+  font-style: italic;
+  font-size: 50px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.input-login {
+  width: 500px;
+  height: 40px;
+  margin-bottom: 30px;
+}
+.left-login-email {
+  margin-left: 20px;
+}
+.button {
+  background-color: green;
+  width: 100px;
+  height: 40px;
+  border-radius: 5px;
+  color: white;
+  font-weight: bold;
+  font-size: 10px;
+  font-style: italic;
+  margin-top: 20px;
+}
+.page-color {
+  background-color: orange;
+}
+.title-signup {
+  text-decoration: underline;
+  font-size: 40px;
+  color: blue;
+  font-style: italic;
+  font-weight: bold;
+  /* net2ked keni mech h khater keni h mana"mlch font-weight ama ahna 3ana p */
+  margin-bottom: 100px;
+}
+.left-sign-up-email {
+  margin-left: 22px;
+}
+.input-signup {
+  width: 700px;
+  height: 30px;
+  margin-bottom: 50px;
+}
+
+.button-signup {
+  border-radius: 10px;
+  border-style: dashed;
+  width: 80px;
+  height: 30px;
+  border-color: blue;
+}
+.CSS-HW-input {
+  width: 450px;
+  height: 15px;
+  margin-right: 10px;
+  margin-bottom: 20px;
+}
+
+.CSS-HW-Name {
+  color: blueviolet;
+  font-size: 15px;
+}
+
+.border-style-send-form {
+  border-color: blueviolet;
+  border-style: dashed;
+  border-width: 5px;
+}
+.CSS-HW-button {
+  background-color: brown;
+  border-color: black;
+  color: black;
+  margin-left: 100px;
+  width: 60px;
+  height: 20px;
+  font-size: 10px;
+}
+.bg-violet {
+  background-color: blueviolet;
+}
+.bg-beige {
+  background-color: beige;
+}
+.aqua-bg {
+  background-color: aqua;
+}
+.bg-yellow {
+  background-color: yellow;
+}
+.white-bg {
+  background-color: white;
+}
+.bg-white {
+  margin-left: 10px;
+  background-color: white;
+  width: 98%;
+  height: 680px;
+}
+.bg-olive {
+  background-color: olivedrab;
+}
+.bg-green {
+  background-color: green;
+}
+.bg-gray {
+  background-color: rgba(239, 235, 235, 0.868);
+}
+.CC-HW2-title {
+  color: white;
+  font-weight: bold;
+  font-size: 20px;
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.CSS-HW2-title {
+  color: rgba(98, 25, 98, 0.896);
+  font-size: 25px;
+}
+.center {
+  vertical-align: middle;
+  text-align: center;
+}
+.CSS-hW3-button {
+  background-color: teal;
+  width: 100%;
+  color: white;
+  border-color: black;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.input-CSS-Changed2 {
+  width: 90%;
+  height: 20px;
+  margin-top: 20px;
+}
+.Button-login-changed2-CSS {
+  border-color: aqua;
+  width: 90%;
+  height: 20px;
+  color: white;
+  background-color: aqua;
+}
+.title-login-Changed2-CSS {
+  font-size: 30px;
+  color: aqua;
+  padding-left: 70px;
+  padding-top: 70px;
+}
+.bg-red {
+  background-color: red;
+}
+.box-dimensions {
+  width: 300px;
+  height: 300px;
+  margin: 50px;
+  box-shadow: 9px 10px 9px -1px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 9px 10px 9px -1px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 9px 10px 9px -1px rgba(0, 0, 0, 0.75);
+}
+.bg-blue {
+  background-color: blue;
+}
+.inline {
+  display: flex;
+}
+.espace {
+  margin: 50px;
+}
+.circle-img {
+  border-radius: 50%;
+}
+.box-HW4-CSS {
+  width: 90%;
+  height: 80px;
+  margin-top: 20px;
+}
+.shadow {
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+.padding-30 {
+  padding: 30px;
+  gap: 10px;
+}
+.title-HW4-CSS {
+  margin-left: 50px;
+  font-weight: bold;
+  font-size: 10px;
+}
+.img-text {
+  padding: 10px;
+  gap: 20px;
+  align-items: center;
+}
+.testimonial-div {
+  width: 95%;
+  height: 100px;
+  background-color: green;
+  margin-bottom: 50px;
+}
+.testimonial-img {
+  margin-top: 20px;
+  margin-left: 30px;
+}
+.testimonial-text {
+  padding-top: 20px;
+  padding-left: 30px;
+}
+.testimonial-div2 {
+  background: linear-gradient(blue, pink);
+}
+.box-dimension {
+  width: 300px;
+  height: 300px;
+  margin: 50px;
+}
+.green-box-position {
+  position: absolute;
+  top: 100px;
+  left: 200px;
+}
+.green-box2-position {
+  position: relative;
+  top: 30px;
+  left: 30px;
+}
+.login-facebook-grey-box-size {
+  width: 500px;
+  height: 550px;
+  margin-top: 120px;
+  margin-left: 490px;
+}
+.login-facebook-white-box-size {
+  width: 400px;
+  height: 380px;
+
+  border-radius: 10px;
+}
+.info-gray-Box-position {
+  position: absolute;
+  left: 580px;
+  top: 580px;
+}
+
+.login-fb-input {
+  margin-top: 20px;
+  margin-left: 10px;
+  border-width: 1px;
+  border-style: solid;
+  width: 90%;
+  height: 50px;
+  border-radius: 5px;
+}
+.facebook-login-button-connecter {
+  border-color: rgba(72, 196, 209, 0.959);
+  background-color: rgba(72, 196, 209, 0.959);
+  border-radius: 5px;
+  width: 92%;
+  height: 50px;
+  margin-top: 20px;
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+}
+.fb-inputs {
+  width: 90px;
+  height: 50px;
+  margin-top: 20px;
+}
+.mot-de-pass {
+  text-decoration: none;
+  color: blue;
+}
+.facebook-login-button-nv-compte {
+  border-color: green;
+  background-color: green;
+  border-radius: 5px;
+  width: 80%;
+  height: 50px;
+  margin-top: 20px;
+  color: white;
+  font-weight: bold;
+  font-size: larger;
+}
+.sport-img {
+  border-radius: 10px;
+  margin-right: 80px;
+}
+.sport-left {
+  margin-left: 100px;
+}
+.sport-num {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: red;
+  color: white;
+  margin: 5px;
+}
+.sport-num2 {
+  width: 40px;
+  height: 40px;
+  border-radius: 50%;
+  background-color: white;
+  color: red;
+  margin: 5px;
+}
+.margin-top-BS-HW1 {
+  margin-top: 10%;
+}
+.features li i {
+  color: #72f6b2;
+}
+
+.features li span {
+  margin-left: 10px;
+}
+.sign {
+  display: inline-block;
+  font-family: "Lato", sans-serif;
+  font-size: 28px;
+  font-weight: 400;
+  vertical-align: super;
+}
+.currency {
+  font-family: "Lato", sans-serif;
+  font-size: 60px;
+  font-weight: 300;
+  letter-spacing: -2px;
+  line-height: 60px;
+  padding: 0;
+  vertical-align: middle;
+}
+.features li i {
+  color: #77a5f8;
+}
+
+.features li span {
+  margin-left: 10px;
+}
+.pricing-card {
+  transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+  border: none;
+  border-radius: 16px;
+}
+
+/* .pricing-card:hover {
+  transform: translateY(-10px);
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.1);
+} */
+
+.popular-badge {
+  position: absolute;
+  top: -12px;
+  right: 24px;
+  background: linear-gradient(45deg, #ff6b6b, #ff8e53);
+  padding: 8px 16px;
+  border-radius: 20px;
+  color: white;
+  font-weight: 600;
+}
+
+.feature-list li {
+  margin-bottom: 12px;
+  color: #666;
+}
+.feature-list2 li {
+  margin-bottom: 12px;
+  color: #666;
+}
+
+.feature-list li:before {
+  content: "✓";
+  color: #4caf50;
+  margin-right: 8px;
+  font-weight: bold;
+}
+.feature-list2 li:before {
+  content: "X";
+  color: #666;
+  margin-right: 8px;
+  font-weight: bold;
+}
+.line-through {
+  text-decoration: line-through;
+}
+.price-amount {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #2c3e50;
+}
+
+.price-period {
+  color: #48a8af;
+  font-size: 1rem;
+}
+
+.btn-custom {
+  padding: 12px 32px;
+  border-radius: 30px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.5px;
+  transition: all 0.3s ease;
+}
+
+/* .btn-primary {
+  background: linear-gradient(45deg, #66cbe4, #6edaf5);
+  border: none;
+} */
+.btn-primary {
+  color: #4ae7e4;
+  border: none;
+}
+
+.btn-outline-primary {
+  border: 2px solid #4aa8e7;
+  color: #4aa8e7;
+}
+
+/* .btn-outline-primary:hover {
+  background: linear-gradient(45deg, #66cbe4, #6edaf5);
+  border-color: transparent;
+} */
+.shadow {
+  box-shadow: -1px -1px 4px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: -1px -1px 4px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: -1px -1px 4px 0px rgba(0, 0, 0, 0.75);
+}
