@@ -6,6 +6,7 @@ This layout is ideal for SaaS, service websites, or product pages.
 Feel free to get inspired or reuse it in your own projects.
 
 ## 📸 Preview
+
 ![Pricing Card Screenshot](./screenshot.png)  
 
 ## 🧱 Technologies Used
